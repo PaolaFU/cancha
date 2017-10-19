@@ -1,0 +1,82 @@
+.cancha{
+  background-color:  RGB(134, 192, 117);
+  height: 500px;
+  width: 800px;
+  position:absolute;
+}
+
+.campo_juego{
+  height: 450px;
+  width: 750px;
+  border: 3px solid white;
+  top: 20px;
+  left:  20px;
+  position:relative;
+
+}
+
+.arco1{
+  border: 3px solid white;
+  width: 120px;
+	height: 200px;
+  margin-left: -3px;
+	position: relative;
+	top: 120px;
+  right: 0px;
+
+}
+
+.arco2{
+  border: 3px solid white;
+  width: 120px;
+	height: 200px;
+  position: relative;
+  top: 120px;
+  margin-left: 627px;
+  position: absolute;
+
+
+}
+.circulo_central{
+  width: 150px;
+	height: 150px;
+	border: 3px solid white;
+
+	position: relative;
+  margin-top: -60px;
+  margin-left: 290px;
+  border-radius: 100%;
+}
+
+.pelota1{
+  width: 25px;
+	height: 25px;
+
+	background-color: white;
+	border-radius: 100%;
+	position: absolute;
+  left: 97px;
+	top:121px;
+}
+
+.pelota2{
+  width: 25px;
+	height: 25px;
+
+	background-color: white;
+	border-radius: 100%;
+	position: absolute;
+  left: 400px;
+	top: 65px;
+}
+
+.pelota3{
+  width: 25px;
+	height: 25px;
+
+	background-color: white;
+	border-radius: 100%;
+	position: absolute;
+  left: 595px;
+	top: 285px;
+}
