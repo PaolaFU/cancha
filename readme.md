@@ -4,4 +4,4 @@
 
 Replicar  la imagen de una cancha de futbol poniendo en práctica los conocimientos de positioning.
 
-![recursos](assets/img/cancha.jpg)
+![recursos](assents/img/cancha.jpg)
